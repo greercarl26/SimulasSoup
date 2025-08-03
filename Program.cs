@@ -91,4 +91,4 @@ Seasoning seasoning()
 
 enum FoodType { Soup, Stew, Gumbo }
 enum Ingredient { Mushroom, Chicken, Carrot, Potatoe }
-enum Seasoning { Spicy, Salty, Sweet }
+enum Seasoning { Spicy, Salty, Sweet } 
